@@ -1,0 +1,44 @@
+{
+  "base": "stations",
+  "clouds": {
+    "all": 100
+  },
+  "cod": 200,
+  "coord": {
+    "lon": 38.8969,
+    "lat": 47.2362
+  },
+  "dt": 1670929445,
+  "id": 484907,
+  "main": {
+    "temp": 277.21,
+    "feels_like": 272.67,
+    "temp_min": 277.21,
+    "temp_max": 277.21,
+    "pressure": 1009,
+    "humidity": 86,
+    "sea_level": 1009,
+    "grnd_level": 1005
+  },
+  "name": "Taganrog",
+  "sys": {
+    "country": "RU",
+    "sunrise": 1670907761,
+    "sunset": 1670938468
+  },
+  "timezone": 10800,
+  "visibility": 10000,
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "wind": {
+    "speed": 6.44,
+    "deg": 118,
+    "gust": 11.92
+  }
+}
